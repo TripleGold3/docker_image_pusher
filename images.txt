@@ -1,1 +1,1 @@
-yantaocheng/emby-nginx:latest
+thsrite/medialinker:latest
