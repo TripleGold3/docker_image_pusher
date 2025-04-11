@@ -1,1 +1,1 @@
-cloudnas/clouddrive2:latest
+yantaocheng/emby-nginx:latest
