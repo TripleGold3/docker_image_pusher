@@ -1,1 +1,1 @@
-yantaocheng/emby-nginx:2.4.3
+yantaocheng/emby-nginx:latest
