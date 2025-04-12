@@ -1,1 +1,1 @@
-thsrite/medialinker:latest
+shenxianmq/auto_symlink:latest
