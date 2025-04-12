@@ -1,1 +1,1 @@
-shenxianmq/auto_symlink:latest
+yantaocheng/emby-nginx:2.4.3
