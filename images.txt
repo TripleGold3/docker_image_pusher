@@ -1,1 +1,1 @@
---platform=linux/amd64 yantaocheng/emby-nginx:latest
+ghcr.io/widenex/net-debug:latest
